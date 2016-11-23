@@ -8,15 +8,13 @@
   },
   "author": "Jose Carlos Goncalves da Costa <josecarlosgdacosta@gmail.com>",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "angular": "^1.5.8",
     "bootstrap": "^3.3.7",
     "gulp": "^3.9.1",
     "gulp-browserify": "^0.5.1",
     "gulp-live-server": "0.0.30",
     "gulp-rename": "^1.2.2",
-    "gulp-uglify": "^2.0.0",
-    "gulp-util": "^3.0.7",
-    "pump": "^1.0.1"
+    "gulp-uglify": "^2.0.0"
   }
 }
