@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jose Carlos Goncalves da Costa <josecarlosgdacosta@gmail.com>",
+  "repository": "https://github.com/josecarlosgdacosta/sgq.git",
+  "author": "Jose <josecarlosgdacosta@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "angular": "^1.5.8",
