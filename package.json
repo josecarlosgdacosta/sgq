@@ -9,7 +9,7 @@
   "repository": "https://github.com/josecarlosgdacosta/sgq.git",
   "author": "Jose <josecarlosgdacosta@gmail.com>",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "angular": "^1.5.8",
     "bootstrap": "^3.3.7",
     "gulp": "^3.9.1",
